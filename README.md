@@ -1,7 +1,7 @@
 # OSW08
 
 ## 교육
-📚 Student Stress & Performance Insights 🌟(https://www.kaggle.com/code/sulaniishara/student-stress-performance-insights)
+[📚 Student Stress & Performance Insights 🌟](https://www.kaggle.com/code/sulaniishara/student-stress-performance-insights)
 
 | Student_ID | Study_Hours_Per_Day | Extracurricular_Hours_Per_Day | Sleep_Hours_Per_Day | Social_Hours_Per_Day | Physical_Activity_Hours_Per_Day | GPA  | Stress_Level |
 |-------------|---------------------|--------------------------------|----------------------|----------------------|----------------------------------|------|---------------|
